@@ -1,7 +1,7 @@
 #Leetcode Problem 48. Rotate Image
 #Topic: Array   
 #Difficulty : Medium
-#Time Complexity: O(n*n)
+#Time Complexity: O(n^2)
 #Space Complexity:O(1)
 
 from typing import List
